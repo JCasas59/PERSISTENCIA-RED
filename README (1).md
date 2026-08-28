@@ -326,6 +326,9 @@ Distribuido bajo licencia MIT. Consulta [`LICENSE`](LICENSE) para más detalles.
 
 ---
 
+<img width="1376" height="768" alt="PERSISTENCIA" src="https://github.com/user-attachments/assets/86816c7b-11c2-4f83-9bde-6cb25791b2a1" />
+
+
 <div align="center">
 
 Hecho con 🛡️ para dormir un poco más tranquilo.
