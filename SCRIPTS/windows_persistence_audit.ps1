@@ -40,7 +40,7 @@ $SmtpPort   = 587
 $SmtpUser   = "usuario@ejemplo.com"
 $SmtpPass   = "CAMBIA_ESTA_CONTRASENA"
 $MailFrom   = "usuario@ejemplo.com"
-$MailTo     = "acasa@ejemplo.com"
+$MailTo     = "user@ejemplo.com"
 $SendEmail  = $true   # $false para desactivar el envío de correo
 # =====================================================
 
