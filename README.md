@@ -184,7 +184,7 @@ SMTP_PORT="587"
 SMTP_USER="usuario@ejemplo.com"
 SMTP_PASS="CAMBIA_ESTA_CONTRASENA"
 MAIL_FROM="usuario@ejemplo.com"
-MAIL_TO="acasa@ejemplo.com"
+MAIL_TO="user@ejemplo.com"
 SEND_EMAIL=true
 ```
 
@@ -195,7 +195,7 @@ $SmtpPort   = 587
 $SmtpUser   = "usuario@ejemplo.com"
 $SmtpPass   = "CAMBIA_ESTA_CONTRASENA"
 $MailFrom   = "usuario@ejemplo.com"
-$MailTo     = "acasa@ejemplo.com"
+$MailTo     = "user@ejemplo.com"
 $SendEmail  = $true
 ```
 
